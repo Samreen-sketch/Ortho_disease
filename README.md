@@ -2,7 +2,7 @@
 # What is Biomechanic in Orthopedic :
 Biomechanics in orthopedics refers to the study of how the human body moves, how forces act on bones, joints, and muscles, and how these forces affect movement, stability, and injury — especially in orthopedic patients.
 # Biomechanical features of Orthopedic patients
-The biomechanical characteristics are especially used in orthopedic and spinal health research in datasets like the Vertebral Column Data Set, where measurements of the vertebral column (lumbar lordosis angle, pelvic incidence, etc.) are used as features to:
+The biomechanical characteristics are especially used in orthopedic and spinal health research in datasets like the Vertebral Column Data Set, where measurements of the vertebral column (lumbar lordosis angle, pelvic incidence, pelvic_tilt,sacral_slope,pelvic_radius,degree_spondylolisth etc.) are used as features to:
 •	Diagnosing spinal issues
 •	Divide the patients into three categories: 
 spondylolisthesis, hernia, and normal.
